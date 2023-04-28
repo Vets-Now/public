@@ -1,0 +1,15 @@
+<svg style="width:100%;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <switch>
+    <foreignObject x="0" y="0" width="100%" height="100">
+              <xhtml:div style="display:inline-block;width:100%;background:#f7e68f;border-left: 8px solid #ffb300;text-align:center;line-height:1.35;font-size:11pt;font-family: Arial, sans-serif;padding:5px 5px;box-sizing:border-box;"> 
+                   <xhtml:div>  
+                    <xhtml:span style="font-weight:bold;">CAUTION:</xhtml:span> This email originated from outside the
+                    organisation.  
+                    </xhtml:div>
+                    <xhtml:div style="word-wrap: break-word;">Do not click links or open attachments unless
+                    you recognise the sender and know the content is safe.
+                    </xhtml:div>
+              </xhtml:div>
+    </foreignObject>
+  </switch>
+</svg>

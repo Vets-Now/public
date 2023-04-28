@@ -1,2 +1,1 @@
-# public
-Items made publicly available
+# Content made publicly available

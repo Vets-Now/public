@@ -16,7 +16,7 @@
         <tr style="padding: 5px 0;">
             <td style="background: #ffb300; width:8px;"></td>
             <td style="padding-left:5px;">      
-                <div line-height: 1.35; font-size: 11pt; font-family: Arial, sans-serif; display:inline-block; width:100%; padding-left:5px; word-wrap: break-word;">
+                <div style="line-height: 1.35; font-size: 11pt; font-family: Arial, sans-serif; display:inline-block; width:100%; padding-left:5px; word-wrap: break-word;">
                             <b>CAUTION:</b> This email originated from outside the
                             organisation. <br/> 
                             Do not click links or open attachments unless
